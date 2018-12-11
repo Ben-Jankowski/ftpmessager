@@ -1,0 +1,5 @@
+Username
+Password
+get "msg.txt"
+disconnect
+bye
