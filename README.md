@@ -7,3 +7,15 @@ My Email: jankowski.ben@yahoo.com - Any spam emails will be tracked and logged! 
 You can also tell me on my website in to contact section!
 
 Thanks for using my code! If you want me to set one up for your house hold or company feel free!
+
+---------
+
+If you dont want to make it your self please see the 'Credits' part and ask me to set one up for you. I will be glad to make one for you and send it back just email me your buisness and you FTP IP adress and login and I will put the EXE together for you.
+(Keep in mind it only work with Windows)
+
+---------
+
+This is coded for windows command promt and wont work for any other OS other than Windows
+You will also need a FTP server to use this as this is where it will store its chats
+This is not a secure chat so if someone breaks into your FTP server then they can see all of your chats
+If your FTP Server has no passowrd leave the password part blank
